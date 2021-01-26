@@ -2,5 +2,5 @@
 Carpeta de equipo
 Arce Hernandez Christian Alexis
 Gutierrez Alcibar Ulises
-Hernandez Castañeda Kevin Reynaldo
-Martinez Ivan
+Martinez Tavira Ivan Eduardo
+Moreno del Castillo Araceli
